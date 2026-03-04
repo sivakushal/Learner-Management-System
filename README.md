@@ -42,15 +42,8 @@ Before running this application, ensure that you have the following prerequisite
 
 - Java Development Kit (JDK) 11 or above
 - Node.js and npm (Node Package Manager)
-- MySQL database with a designated schema named "student_management_system"
 - MySQL database with a designated schema named "learner_management_system"
 
-**Setup:**
-
-First clone this repository.
-```bash
-$ git clone https://github.com/LuisSalas94/Learner-Management-System
-```
 **Set Up the MySQL Database:**
 
 - Create a MySQL database named "learner_management_system".
