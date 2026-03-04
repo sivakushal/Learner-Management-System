@@ -1,16 +1,16 @@
-# Learner Management System (EMS) 📚
+# Learner Management System (EMS) 
 
 A Full-stack web application built using React and Spring Boot for managing learner records efficiently. The Learner Management System (EMS) allows users to add, update, and delete learner information, along with their respective categories. This system ensures seamless communication between the frontend and backend, providing a user-friendly interface to manage learner details.
 
 
-## Tech Stack 🖥
+## Tech Stack 
 
 **Client:** React, Bootstrap, React Router, Axios, Toast Notifications Library
 
 **Server:** Spring Boot, Spring JPA, Spring Web, MySQL
 
 
-## Key Features 🎇
+## Key Features 
 
 - Add, update, and delete learner records with their first name, last name, email, and category.
 - View a list of learners with category information.
@@ -23,8 +23,8 @@ A Full-stack web application built using React and Spring Boot for managing lear
 - Utilizes custom hooks for encapsulating and reusing logic across components.
 
 
-## Screenshots 🎞
-Add your screenshots to the `./assets/` folder (example names shown). Use relative paths so images display on GitHub.
+## Screenshots 
+
 
 ![Categories](./ems-frontend/assets/Screenshot_1.png)
 ![Learner List](./ems-frontend/assets/Screenshot_2.png)
